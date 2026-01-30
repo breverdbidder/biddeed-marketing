@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Secrets
+.env
+*.key
+credentials.json
+
+# Large media files (use Git LFS or external hosting)
+*.mp4
+*.mov
+*.avi
